@@ -6,9 +6,9 @@
       countdown100: function(options) {
         var defaults = {
           timeZone: "",
-          endtimeYear: 0,
-          endtimeMonth: 0,
-          endtimeDate: 0,
+          endtimeYear: 2018,
+          endtimeMonth: 10,
+          endtimeDate: 16,
           endtimeHours: 0,
           endtimeMinutes: 0,
           endtimeSeconds: 0,
